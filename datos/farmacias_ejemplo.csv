@@ -1,0 +1,11 @@
+nombre;provincia;responsable;estado;fecha_ultimo_contacto;documentos_pendientes
+Farmacia Castañeda;Madrid;Lucía Pérez;pendiente documentacion;12/09/2026;contrato|PNT|certificado
+Farmacia del Carmen;Sevilla;Jorge Ruiz;pendiente documentacion;02/10/2026;certificado|PNT
+Farmacia Peñalver;Valencia;Lucía Pérez;en revision;06/10/2026;
+Farmacia Nueva Ávila;Ávila;Marta Gómez;en revision;20/09/2026;
+Farmacia San Andrés;Barcelona;Jorge Ruiz;subsanacion;15/09/2026;PNT
+Farmacia Muñoz Torres;Málaga;Marta Gómez;subsanacion;03/10/2026;contrato|certificado
+Farmacia La Rambla;Barcelona;Lucía Pérez;live;28/08/2026;
+Farmacia Logroño Centro;La Rioja;Jorge Ruiz;live;01/10/2026;
+Farmacia Ibáñez;Zaragoza;Marta Gómez;live;25/09/2026;
+Farmacia El Pilar;Zaragoza;Lucía Pérez;paralizada;10/07/2026;contrato|PNT

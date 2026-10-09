@@ -1,0 +1,2 @@
+# La herramienta solo usa la librería estándar; esto es para los tests.
+pytest
